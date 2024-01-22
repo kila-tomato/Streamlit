@@ -1,0 +1,1 @@
+/Users/{}/Library/Python/3.9/bin/streamlit
